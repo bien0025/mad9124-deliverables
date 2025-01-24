@@ -6,4 +6,4 @@ class Thing {
 }
 
 let instance = new Thing();
-console.log(instance.name);
+console.log(instance.#name);
